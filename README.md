@@ -17,6 +17,3 @@ Skills: React / JavaScript / Restful API /MongoDB / HTML / CSS/ Bootstrap / Tail
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SazzadForazi)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SazzadForazi)  
-
-![Profile views](https://gpvc.arturio.dev/SazzadForazi)  
