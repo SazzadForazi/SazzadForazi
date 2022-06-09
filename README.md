@@ -1,5 +1,5 @@
 
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQER-Zz8dV4sYA/profile-displaybackgroundimage-shrink_350_1400/0/1631205617659?e=1649289600&v=beta&t=N48XhtbI_i1prTqbRBRKQF627pt7iGqFMN8bNrz7z-A)
+![Web Developer](https://www.linkedin.com/in/sazzad-hossain-forazi/overlay/background-image/)
 # This is Sazzad Forazi
 
 
