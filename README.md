@@ -1,5 +1,4 @@
 
-![Web Developer](https://www.linkedin.com/in/sazzad-hossain-forazi/overlay/background-image/)
 # This is Sazzad Forazi
 
 
