@@ -9,7 +9,6 @@ A self-motivated front-End web developer with immense knowledge and proficiency 
 ### Skills: React / JavaScript / Restful API /MongoDB / HTML / CSS/ Bootstrap / Tailwind / C /  C++/  Python/ Java
 
 <h3 align="left">Tools:</h3>
-  <code><img height="40" src="https://user-images.githubusercontent.com/48891202/135019836-4eb0b434-0b0d-42b0-b359-96077cbb71bf.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
