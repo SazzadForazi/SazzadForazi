@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <p align = "center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SazzadForazi&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" /> -->
   
-  <!-- 
+  
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SazzadForazi&show_icons=true&theme=radical">
   </a>
@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
     <img src="http://github-readme-streak-stats.herokuapp.com?user=SazzadForazi&theme=react&background=0d1117&border=666">
   </a>
   <br>
+  <!-- 
   <a href="https://github.com/SazzadForazi/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=SazzadForazi&theme=react-dark&hide_border=true">
   </a>
