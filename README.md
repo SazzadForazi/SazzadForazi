@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
     <img src="http://github-readme-streak-stats.herokuapp.com?user=SazzadForazi&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/salmansrabon/github-readme-activity-graph">
+  <a href="https://github.com/SazzadForazi/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=SazzadForazi&theme=react-dark&hide_border=true">
   </a>
 </p>
